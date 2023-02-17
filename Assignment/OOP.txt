@@ -1,0 +1,49 @@
+OOP : Object Oriented Programming 
+
+OOP Concepts : 
+
+Object : 
+	"Object ia an instance/part/example/representative of a class "
+Class : 
+	"Class is a blueprint for an object"
+
+	Ex: Apple is a Fruit 
+
+	Note : "A class can contain many objects
+		But..
+		An object may only relate to a single class"
+
+Encapsulation : "Wrapping up of data into single unit"
+
+Inheritance : "Ability to adopt the property and behaviour of parent class"
+	"Here two class are in parent-child relation"
+
+
+Polymorphism: 
+	poly means many
+	morphs means form
+	
+	polymorphism : "Having many forms"
+
+	"Ability to react the same thing in different way"
+
+	>>Types of polymorphism : 
+	1. Overloading
+	2. Overriding 
+
+Abstraction:"to hide"
+
+	"To hide irrevant data from the user"
+
+
+
+
+
+
+
+
+
+
+
+
+
